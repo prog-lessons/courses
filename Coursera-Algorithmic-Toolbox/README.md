@@ -21,14 +21,18 @@ This repository contains my work for the course [Algorithmic Toolbox](https://ww
 - Solution for problem [Maximum Salary (Largest Number)](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week3_greedy_algorithms/LargestNumber.java)
 - Solution for problem [Car Fueling](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week3_greedy_algorithms/CarFueling.java)
 
-### Week 4- Divide and Conquer
+### Week 4 (Divide and Conquer)
 
 - Solution for problem [Binary Search](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week4_divide_and_conquer/BinarySearch.java)
 - Solution for problem [Majority Element](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week4_divide_and_conquer/MajorityElement.java)
 - Solution for problem [Improving QuickSort](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week4_divide_and_conquer/Sorting.java)
 
-### Week 5- Dynamic Programming 1
+### Week 5 (Dynamic Programming 1)
 
 - Solution for problem [Longest Common Subsequence of Two Sequences](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week5_dynamic_programming1/LCS2.java)
 - Solution for problem [Money Change Again](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week5_dynamic_programming1/ChangeDP.java)
 - Solution for problem [Primitive Calculator](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week5_dynamic_programming1/PrimitiveCalculator.java)
+
+### Week 6 (Dynamic Programming 2)
+
+- Solution for problem [Maximum Amount of Gold](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week6_dynamic_programming2/Knapsack.java)
