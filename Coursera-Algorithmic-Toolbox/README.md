@@ -26,3 +26,9 @@ This repository contains my work for the course [Algorithmic Toolbox](https://ww
 - Solution for problem [Binary Search](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week4_divide_and_conquer/BinarySearch.java)
 - Solution for problem [Majority Element](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week4_divide_and_conquer/MajorityElement.java)
 - Solution for problem [Improving QuickSort](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week4_divide_and_conquer/Sorting.java)
+
+### Week 5- Dynamic Programming 1
+
+- Solution for problem [Longest Common Subsequence of Two Sequences](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week5_dynamic_programming1/LCS2.java)
+- Solution for problem [Money Change Again](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week5_dynamic_programming1/ChangeDP.java)
+- Solution for problem [Primitive Calculator](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week5_dynamic_programming1/PrimitiveCalculator.java)
