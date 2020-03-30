@@ -1,6 +1,6 @@
 ## Coursera: Algorithmic Toolbox
 
-This repository contains my work for the course [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) that was created by UC San Diego and delivered through Coursera. The solutions are implemented in Java.
+This repository contains my work for the course [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) that was created by UC San Diego and delivered through Coursera. The solutions were implemented in Java.
 
 **Disclaimer:** The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
 
