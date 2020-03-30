@@ -36,3 +36,4 @@ This repository contains my work for the course [Algorithmic Toolbox](https://ww
 ### Week 6 (Dynamic Programming 2)
 
 - Solution for problem [Maximum Amount of Gold](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week6_dynamic_programming2/Knapsack.java)
+- Solution for problem [Maximum Value of an Arithmetic Expression](https://github.com/prog-lessons/courses/blob/master/Coursera-Algorithmic-Toolbox/week6_dynamic_programming2/PlacingParentheses.java)
