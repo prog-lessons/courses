@@ -1,5 +1,7 @@
 ## Coursera: Algorithmic Toolbox
 
+![Screenshot from 2020-03-31 20-42-26](https://user-images.githubusercontent.com/24251894/78085064-3cc13000-7390-11ea-89b5-32197d7f4313.png)
+
 This repository contains my work for the course [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) that was created by UC San Diego and delivered through Coursera. The solutions were implemented in Java.
 
 **Disclaimer:** The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
